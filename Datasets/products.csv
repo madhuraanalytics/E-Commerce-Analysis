@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price,rating,launch_date
+P0001,Product_1,Grocery,Footwear,Nike,9415.41,32485.63,4.0,2023-12-20
+P0002,Product_2,Books,Kitchen,Nike,42044.52,30535.78,1.5,2025-01-05
+P0003,Product_3,Sports,Books,Apple,42011.43,48974.63,2.8,2023-11-11
+P0004,Product_4,Books,Laptop,Dell,11894.58,50098.76,1.7,2024-05-03
+P0005,Product_5,Beauty,Footwear,Puma,15982.43,53384.99,1.8,2025-11-03
+P0006,Product_6,Fashion,Books,Nike,35153.64,58167.67,1.4,2023-04-06
+P0007,Product_7,Beauty,Mobile,Apple,36939.47,16411.1,2.7,2024-12-15
+P0008,Product_8,Grocery,Fitness,Dell,32915.82,4833.37,1.3,2024-03-17
+P0009,Product_9,Grocery,Mobile,Lenovo,49835.06,26742.49,4.6,2025-01-09
+P0010,Product_10,Grocery,Books,Dell,43447.29,59885.83,2.8,2025-04-14
+P0011,Product_11,Sports,Accessories,Sony,20911.24,5646.4,4.4,2024-03-03
+P0012,Product_12,Beauty,Laptop,Puma,16416.14,40401.58,4.9,2024-07-18
+P0013,Product_13,Electronics,Mobile,Boat,29882.8,49135.59,3.7,2025-11-07
+P0014,Product_14,Sports,Mobile,Nike,40900.05,33802.22,4.6,2022-05-29
+P0015,Product_15,Home & Kitchen,Footwear,Nike,23819.64,18011.25,1.5,2024-02-07
+P0016,Product_16,Beauty,Footwear,Samsung,36910.86,22976.4,4.3,2025-07-28
+P0017,Product_17,Books,Footwear,LG,1056.09,5201.32,2.1,2022-12-11
+P0018,Product_18,Fashion,Books,Samsung,46299.42,20622.33,2.9,2025-12-03
+P0019,Product_19,Beauty,Kitchen,Nike,38714.35,3297.58,3.6,2024-08-31
+P0020,Product_20,Fashion,Kitchen,Puma,19770.09,50897.48,4.6,2024-07-10
+P0021,Product_21,Grocery,Accessories,Samsung,19262.22,62880.07,4.6,2022-01-30
+P0022,Product_22,Grocery,Mobile,Boat,5234.05,44419.22,1.4,2023-12-31
+P0023,Product_23,Electronics,Fitness,Boat,40826.07,46037.88,2.5,2025-12-16
+P0024,Product_24,Home & Kitchen,Footwear,HP,38454.61,33155.54,4.2,2024-09-08
+P0025,Product_25,Books,Accessories,HP,31549.46,11091.34,3.8,2022-08-19
+P0026,Product_26,Sports,Books,HP,5162.68,739.21,1.1,2025-10-14
+P0027,Product_27,Sports,Accessories,Lenovo,13190.83,24209.52,2.8,2025-03-31
+P0028,Product_28,Home & Kitchen,Footwear,Dell,22999.83,52653.9,4.3,2023-12-30
+P0029,Product_29,Electronics,Laptop,Puma,13372.0,67238.12,4.0,2025-06-05
+P0030,Product_30,Electronics,Mobile,Samsung,21755.3,30289.73,2.6,2025-05-29
+P0031,Product_31,Grocery,Footwear,Lenovo,11375.28,25704.29,3.9,2024-01-16
+P0032,Product_32,Beauty,Fitness,Dell,17545.07,31327.9,3.2,2025-01-01
+P0033,Product_33,Electronics,Mobile,Samsung,32649.61,30058.69,4.7,2023-02-03
+P0034,Product_34,Beauty,Accessories,Lenovo,44628.82,43886.41,3.3,2022-04-05
+P0035,Product_35,Fashion,Kitchen,Lenovo,19313.03,51443.49,2.6,2023-04-20
+P0036,Product_36,Home & Kitchen,Fitness,Puma,34626.22,54990.07,4.5,2025-01-23
+P0037,Product_37,Fashion,Mobile,Apple,6826.18,45542.42,1.2,2024-02-14
+P0038,Product_38,Fashion,Fitness,Adidas,27086.82,30753.13,4.6,2025-02-21
+P0039,Product_39,Fashion,Accessories,Sony,46093.04,66517.24,3.8,2024-03-10
+P0040,Product_40,Fashion,Footwear,HP,1494.0,49829.17,4.8,2024-08-01
+P0041,Product_41,Sports,Kitchen,Puma,13451.11,29980.73,2.0,2024-10-19
+P0042,Product_42,Electronics,Fitness,Sony,6711.43,31371.41,3.8,2023-09-13
+P0043,Product_43,Home & Kitchen,Footwear,Adidas,26702.76,57295.06,4.2,2024-05-09
+P0044,Product_44,Home & Kitchen,Kitchen,Apple,34014.16,30949.75,3.8,2024-08-21
+P0045,Product_45,Books,Accessories,Boat,2983.18,36235.9,1.8,2024-12-07
+P0046,Product_46,Fashion,Kitchen,Nike,3607.19,20550.35,2.1,2024-03-23
+P0047,Product_47,Home & Kitchen,Accessories,Sony,43494.5,58756.26,3.3,2022-04-05
+P0048,Product_48,Grocery,Fitness,Adidas,22866.03,36655.53,2.8,2022-02-02
+P0049,Product_49,Beauty,Fitness,Dell,23201.28,38767.01,3.9,2025-02-15
+P0050,Product_50,Home & Kitchen,Accessories,Puma,47234.56,61671.14,2.5,2025-06-28
+P0051,Product_51,Grocery,Fitness,Puma,16078.46,64452.11,4.4,2025-08-19
+P0052,Product_52,Fashion,Fitness,Boat,44861.48,57728.73,2.7,2022-05-02
+P0053,Product_53,Home & Kitchen,Fitness,Nike,48715.31,4762.85,1.2,2022-08-06
+P0054,Product_54,Electronics,Books,HP,12160.54,31156.94,1.1,2024-12-12
+P0055,Product_55,Fashion,Fitness,Samsung,25750.54,24164.5,3.6,2025-02-23
+P0056,Product_56,Sports,Mobile,Sony,26764.37,15103.33,3.2,2025-03-28
+P0057,Product_57,Grocery,Accessories,Dell,43321.79,63644.98,3.2,2024-03-05
+P0058,Product_58,Electronics,Accessories,Puma,15265.02,62326.81,4.2,2022-06-25
+P0059,Product_59,Home & Kitchen,Laptop,LG,39922.32,32677.79,2.5,2022-10-19
+P0060,Product_60,Sports,Footwear,Samsung,48553.27,9592.35,5.0,2025-03-28
+P0061,Product_61,Books,Laptop,Dell,42032.8,1132.92,4.8,2023-05-06
+P0062,Product_62,Electronics,Fitness,Boat,45466.1,30805.0,1.1,2024-01-31
+P0063,Product_63,Books,Fitness,Samsung,35446.89,2988.87,4.6,2025-10-12
+P0064,Product_64,Beauty,Kitchen,Puma,45207.39,42747.0,3.7,2023-09-26
+P0065,Product_65,Electronics,Mobile,Sony,8326.05,42666.94,3.0,2025-06-14
+P0066,Product_66,Sports,Mobile,Puma,35646.83,62945.97,3.3,2025-12-22
+P0067,Product_67,Books,Mobile,HP,36620.68,13465.43,4.4,2022-05-05
+P0068,Product_68,Beauty,Mobile,HP,22015.13,26123.32,4.8,2025-08-31
+P0069,Product_69,Books,Mobile,Adidas,4078.95,60196.27,3.2,2025-07-26
+P0070,Product_70,Home & Kitchen,Mobile,Dell,31159.94,33305.9,1.7,2023-08-27
+P0071,Product_71,Fashion,Mobile,HP,2688.85,4368.69,3.6,2024-07-26
+P0072,Product_72,Books,Mobile,Adidas,19181.88,7932.72,1.3,2025-02-02
+P0073,Product_73,Home & Kitchen,Kitchen,Sony,19744.14,56979.13,3.5,2024-12-01
+P0074,Product_74,Fashion,Books,Boat,49946.23,52110.08,4.2,2025-11-21
+P0075,Product_75,Fashion,Mobile,Dell,15060.12,61336.53,2.4,2023-05-06
+P0076,Product_76,Sports,Accessories,Sony,41040.65,8496.51,1.3,2023-07-19
+P0077,Product_77,Grocery,Mobile,Samsung,2753.27,53277.09,3.8,2022-06-17
+P0078,Product_78,Beauty,Footwear,Adidas,26535.32,45926.28,2.4,2024-01-29
+P0079,Product_79,Grocery,Mobile,Adidas,26880.91,16414.07,2.0,2025-04-12
+P0080,Product_80,Beauty,Books,Dell,31474.62,68178.53,3.8,2025-10-27
+P0081,Product_81,Electronics,Kitchen,HP,40519.26,40010.77,4.9,2025-03-19
+P0082,Product_82,Home & Kitchen,Fitness,Lenovo,38119.98,63500.08,4.0,2022-09-06
+P0083,Product_83,Sports,Books,Samsung,38074.31,60164.7,3.0,2022-06-29
+P0084,Product_84,Books,Books,Samsung,21671.47,23452.16,3.4,2025-02-17
+P0085,Product_85,Home & Kitchen,Fitness,Adidas,36400.83,37609.79,1.6,2022-01-28
+P0086,Product_86,Books,Mobile,LG,24616.65,30309.51,4.3,2022-04-27
+P0087,Product_87,Grocery,Kitchen,Adidas,3440.86,49693.61,3.4,2023-12-04
+P0088,Product_88,Books,Kitchen,HP,44520.07,41245.33,4.9,2023-10-19
+P0089,Product_89,Grocery,Mobile,HP,44519.15,54982.78,4.9,2024-04-11
+P0090,Product_90,Grocery,Fitness,HP,16211.65,1020.31,2.4,2022-09-19
+P0091,Product_91,Books,Footwear,Lenovo,45703.74,48207.97,5.0,2023-09-18
+P0092,Product_92,Electronics,Laptop,Samsung,37923.4,22470.75,4.8,2024-02-24
+P0093,Product_93,Grocery,Accessories,Boat,20099.98,15850.71,3.6,2024-11-27
+P0094,Product_94,Electronics,Fitness,Apple,16642.13,56126.65,2.3,2022-07-16
+P0095,Product_95,Sports,Mobile,Puma,48759.62,6427.64,4.0,2025-12-31
+P0096,Product_96,Electronics,Accessories,Nike,35660.09,16146.51,2.1,2023-11-15
+P0097,Product_97,Sports,Mobile,LG,19002.62,14420.66,3.5,2024-05-23
+P0098,Product_98,Electronics,Laptop,Adidas,32135.0,29503.82,1.1,2025-12-04
+P0099,Product_99,Beauty,Laptop,Dell,28619.16,22699.11,3.5,2022-11-29
+P0100,Product_100,Sports,Fitness,Nike,26274.55,50488.69,4.8,2023-12-21
+P0101,Product_101,Beauty,Accessories,Nike,32270.62,49016.02,1.9,2025-03-27
+P0102,Product_102,Grocery,Books,Boat,26927.55,22917.87,4.1,2025-03-29
+P0103,Product_103,Beauty,Kitchen,LG,32774.04,30701.26,2.2,2025-09-19
+P0104,Product_104,Sports,Kitchen,HP,45387.67,14711.99,3.8,2025-10-31
+P0105,Product_105,Home & Kitchen,Accessories,Lenovo,49663.92,47024.28,3.8,2022-03-20
+P0106,Product_106,Grocery,Books,Dell,35493.41,27856.35,1.7,2022-07-16
+P0107,Product_107,Grocery,Laptop,HP,46398.26,9471.26,3.4,2025-02-17
+P0108,Product_108,Fashion,Mobile,Apple,42934.67,9083.13,4.4,2022-08-14
+P0109,Product_109,Electronics,Kitchen,LG,14822.37,22697.98,2.5,2023-08-18
+P0110,Product_110,Books,Books,Nike,46652.11,52363.29,3.8,2025-12-04
+P0111,Product_111,Electronics,Books,Dell,3633.37,1980.2,3.7,2024-07-01
+P0112,Product_112,Books,Fitness,HP,16563.1,18192.67,2.0,2024-01-05
+P0113,Product_113,Home & Kitchen,Footwear,Nike,32033.25,11541.53,4.7,2025-09-24
+P0114,Product_114,Fashion,Laptop,Dell,26393.08,66962.15,3.3,2024-07-07
+P0115,Product_115,Home & Kitchen,Books,Sony,27166.38,49428.66,2.4,2023-06-21
+P0116,Product_116,Fashion,Laptop,Samsung,39764.93,16479.64,1.7,2022-08-08
+P0117,Product_117,Sports,Fitness,Nike,9815.71,14680.75,2.9,2022-10-20
+P0118,Product_118,Sports,Mobile,HP,49105.57,60090.53,3.9,2025-05-12
+P0119,Product_119,Books,Accessories,Lenovo,21929.17,13477.82,3.5,2022-07-21
+P0120,Product_120,Beauty,Laptop,LG,47497.18,69794.73,3.9,2022-02-01
+P0121,Product_121,Beauty,Fitness,Sony,19217.48,19904.76,4.2,2025-01-17
+P0122,Product_122,Books,Fitness,Puma,30129.15,6086.42,2.8,2025-05-10
+P0123,Product_123,Sports,Fitness,Boat,22570.54,48427.74,3.1,2025-08-09
+P0124,Product_124,Books,Kitchen,Adidas,33829.16,42753.07,4.9,2023-12-17
+P0125,Product_125,Beauty,Kitchen,Samsung,9262.87,69987.59,4.9,2024-01-23
+P0126,Product_126,Books,Kitchen,Puma,20091.36,56185.58,2.7,2024-10-13
+P0127,Product_127,Sports,Accessories,Lenovo,3512.22,30132.79,3.7,2022-04-25
+P0128,Product_128,Home & Kitchen,Kitchen,Lenovo,29945.26,47427.48,2.1,2023-12-23
+P0129,Product_129,Electronics,Laptop,Dell,48137.82,57285.89,1.6,2025-05-30
+P0130,Product_130,Sports,Books,Lenovo,2390.74,36058.11,4.1,2022-07-01
+P0131,Product_131,Books,Fitness,LG,33015.54,19246.43,2.7,2024-02-10
+P0132,Product_132,Sports,Accessories,Adidas,38777.39,14865.37,1.7,2023-04-14
+P0133,Product_133,Sports,Kitchen,Dell,10734.11,20810.64,4.0,2023-03-02
+P0134,Product_134,Beauty,Mobile,Samsung,13726.41,59395.2,4.7,2024-04-13
+P0135,Product_135,Books,Footwear,HP,10158.9,26754.18,4.7,2024-12-19
+P0136,Product_136,Beauty,Laptop,Lenovo,14940.89,20209.16,3.4,2023-04-30
+P0137,Product_137,Books,Accessories,Dell,5593.12,56450.93,2.9,2022-01-11
+P0138,Product_138,Beauty,Footwear,Nike,18580.36,2428.04,1.6,2025-11-09
+P0139,Product_139,Beauty,Footwear,Dell,18509.57,41658.29,4.2,2025-12-04
+P0140,Product_140,Home & Kitchen,Kitchen,LG,40382.65,61179.5,4.8,2022-02-11
+P0141,Product_141,Sports,Accessories,Lenovo,40067.82,28823.85,4.6,2022-05-03
+P0142,Product_142,Home & Kitchen,Books,Apple,39856.5,18998.41,4.0,2023-12-02
+P0143,Product_143,Beauty,Books,Apple,28395.09,34521.29,1.0,2022-09-09
+P0144,Product_144,Home & Kitchen,Accessories,Sony,16361.45,50279.91,2.6,2024-08-30
+P0145,Product_145,Grocery,Accessories,Boat,20607.13,36259.07,2.6,2023-08-27
+P0146,Product_146,Grocery,Fitness,Lenovo,15955.4,733.2,4.6,2022-08-01
+P0147,Product_147,Sports,Mobile,Samsung,29138.2,5667.05,1.3,2022-09-25
+P0148,Product_148,Sports,Books,LG,46905.16,50548.72,3.1,2024-10-02
+P0149,Product_149,Beauty,Fitness,Dell,14296.39,28116.6,1.5,2023-12-08
+P0150,Product_150,Sports,Footwear,Boat,22996.71,54977.35,3.6,2023-06-24
+P0151,Product_151,Home & Kitchen,Footwear,Adidas,32790.33,45534.4,4.2,2023-12-07
+P0152,Product_152,Fashion,Footwear,Lenovo,42250.28,40789.81,3.6,2024-10-07
+P0153,Product_153,Sports,Accessories,Puma,12741.36,63115.99,4.2,2023-09-11
+P0154,Product_154,Home & Kitchen,Laptop,Samsung,14086.47,1688.28,3.4,2025-03-04
+P0155,Product_155,Grocery,Fitness,Dell,44269.76,11021.4,1.8,2023-05-13
+P0156,Product_156,Grocery,Laptop,Boat,4104.88,43781.44,2.5,2024-10-17
+P0157,Product_157,Home & Kitchen,Kitchen,Apple,30311.84,4794.8,4.8,2024-02-21
+P0158,Product_158,Grocery,Mobile,Apple,43036.73,45218.94,2.2,2022-05-06
+P0159,Product_159,Home & Kitchen,Mobile,LG,46094.96,68891.65,1.3,2025-10-14
+P0160,Product_160,Sports,Fitness,Puma,733.09,61540.81,2.5,2024-04-20
+P0161,Product_161,Fashion,Footwear,Samsung,18546.33,41446.0,2.5,2024-09-09
+P0162,Product_162,Beauty,Kitchen,Boat,12937.51,62599.57,2.9,2025-09-03
+P0163,Product_163,Beauty,Books,LG,28444.83,8315.52,3.2,2022-01-12
+P0164,Product_164,Sports,Mobile,Boat,31679.83,31937.65,5.0,2025-08-10
+P0165,Product_165,Sports,Laptop,HP,49988.75,30121.59,4.0,2023-05-31
+P0166,Product_166,Grocery,Laptop,Samsung,25686.85,23684.04,1.1,2025-11-15
+P0167,Product_167,Electronics,Books,Sony,27618.2,214.06,3.9,2022-11-12
+P0168,Product_168,Books,Accessories,LG,20774.24,62393.83,4.3,2024-10-28
+P0169,Product_169,Fashion,Footwear,Apple,7469.09,54483.92,4.6,2025-02-21
+P0170,Product_170,Home & Kitchen,Accessories,Sony,15235.9,45769.45,2.7,2025-10-27
+P0171,Product_171,Books,Fitness,Dell,12424.55,9201.89,2.3,2022-11-10
+P0172,Product_172,Home & Kitchen,Mobile,Sony,40080.86,26598.72,4.4,2025-04-23
+P0173,Product_173,Books,Books,Sony,27336.24,64718.02,4.1,2023-07-01
+P0174,Product_174,Beauty,Books,LG,14880.06,43261.69,3.1,2022-02-08
+P0175,Product_175,Books,Books,Nike,24505.74,42318.06,1.5,2025-01-12
+P0176,Product_176,Sports,Accessories,Sony,11021.36,63936.23,3.6,2024-11-10
+P0177,Product_177,Fashion,Accessories,Sony,9337.84,39276.39,1.3,2022-09-10
+P0178,Product_178,Beauty,Fitness,Boat,43011.12,41914.1,1.4,2022-10-30
+P0179,Product_179,Grocery,Laptop,Samsung,47246.06,24330.96,2.3,2024-09-05
+P0180,Product_180,Books,Laptop,Apple,4092.73,26126.58,2.5,2022-09-15
+P0181,Product_181,Fashion,Kitchen,LG,38267.65,48055.36,2.8,2024-09-26
+P0182,Product_182,Sports,Fitness,Puma,22720.25,22566.38,2.4,2023-06-26
+P0183,Product_183,Grocery,Books,Sony,19509.68,39225.73,1.1,2023-10-02
+P0184,Product_184,Home & Kitchen,Laptop,Adidas,34501.62,19687.93,1.6,2023-07-06
+P0185,Product_185,Grocery,Fitness,Samsung,13386.06,11795.54,1.5,2023-04-06
+P0186,Product_186,Electronics,Laptop,Lenovo,1127.0,31917.29,2.7,2022-08-12
+P0187,Product_187,Fashion,Kitchen,Lenovo,10778.74,15377.73,1.8,2022-04-02
+P0188,Product_188,Home & Kitchen,Fitness,Puma,9327.76,62914.9,2.2,2022-10-07
+P0189,Product_189,Fashion,Laptop,Boat,1799.06,21392.19,2.9,2025-04-08
+P0190,Product_190,Fashion,Books,Puma,16133.64,41898.67,1.9,2022-09-05
+P0191,Product_191,Fashion,Accessories,Puma,23778.47,18588.24,2.0,2025-10-16
+P0192,Product_192,Sports,Accessories,Puma,36817.85,18209.74,4.3,2025-10-04
+P0193,Product_193,Beauty,Kitchen,Adidas,16350.5,24674.4,3.2,2024-05-15
+P0194,Product_194,Fashion,Books,Samsung,9807.56,64128.04,4.4,2025-12-29
+P0195,Product_195,Sports,Laptop,Puma,11607.93,27526.54,3.1,2025-11-30
+P0196,Product_196,Electronics,Books,Dell,44569.74,57524.4,4.6,2022-03-19
+P0197,Product_197,Beauty,Fitness,Nike,10315.55,13971.41,2.0,2023-04-03
+P0198,Product_198,Sports,Accessories,HP,43974.11,3562.23,3.5,2023-08-09
+P0199,Product_199,Grocery,Mobile,Apple,22410.24,54761.12,3.0,2025-11-16
+P0200,Product_200,Electronics,Kitchen,Dell,46726.58,38022.87,4.7,2024-11-03
+P0201,Product_201,Grocery,Laptop,Sony,20463.8,35360.06,2.7,2022-02-14
+P0202,Product_202,Beauty,Mobile,Boat,8966.38,19199.97,4.4,2022-02-07
+P0203,Product_203,Sports,Mobile,HP,27496.59,5247.73,3.3,2023-02-20
+P0204,Product_204,Electronics,Kitchen,LG,29426.56,33903.63,3.8,2022-09-02
+P0205,Product_205,Sports,Footwear,Samsung,31810.92,60732.4,4.5,2024-12-21
+P0206,Product_206,Electronics,Mobile,HP,20633.69,8577.54,5.0,2023-05-08
+P0207,Product_207,Fashion,Mobile,Sony,2525.21,65056.13,3.9,2022-11-19
+P0208,Product_208,Fashion,Books,Sony,31373.32,19376.09,2.3,2025-06-29
+P0209,Product_209,Beauty,Footwear,Dell,46658.2,37346.6,2.2,2023-04-13
+P0210,Product_210,Electronics,Footwear,Apple,47882.18,4842.29,2.2,2024-12-20
+P0211,Product_211,Fashion,Footwear,Dell,29884.58,29868.25,1.4,2025-02-16
+P0212,Product_212,Beauty,Kitchen,Puma,1092.36,8987.67,1.2,2022-03-28
+P0213,Product_213,Home & Kitchen,Fitness,LG,5391.32,3548.57,3.3,2022-03-21
+P0214,Product_214,Fashion,Footwear,Boat,41716.13,67665.73,4.2,2022-08-16
+P0215,Product_215,Fashion,Books,Apple,41504.25,51160.6,1.1,2023-04-28
+P0216,Product_216,Books,Fitness,Samsung,47306.18,50390.23,3.3,2023-09-15
+P0217,Product_217,Sports,Laptop,Samsung,28232.34,6520.37,2.5,2025-08-26
+P0218,Product_218,Home & Kitchen,Fitness,Nike,43204.43,65068.67,4.6,2024-08-05
+P0219,Product_219,Electronics,Laptop,Apple,41261.86,32968.9,1.6,2023-04-30
+P0220,Product_220,Beauty,Footwear,Lenovo,29512.1,59689.43,3.3,2024-04-19
+P0221,Product_221,Home & Kitchen,Footwear,Apple,39203.51,1079.56,4.9,2022-01-25
+P0222,Product_222,Electronics,Laptop,Samsung,6372.96,21014.81,2.4,2025-05-10
+P0223,Product_223,Fashion,Accessories,HP,31996.22,69724.09,4.0,2025-06-02
+P0224,Product_224,Grocery,Books,Samsung,47677.2,30063.1,4.5,2024-02-18
+P0225,Product_225,Books,Fitness,HP,8181.68,62216.85,1.7,2024-07-19
+P0226,Product_226,Grocery,Books,Sony,37227.73,23094.28,5.0,2024-03-05
+P0227,Product_227,Beauty,Books,Sony,16107.21,36867.97,4.2,2024-01-23
+P0228,Product_228,Beauty,Mobile,Boat,40873.49,59824.49,1.6,2025-04-21
+P0229,Product_229,Home & Kitchen,Footwear,Puma,34890.83,42486.28,2.2,2025-01-05
+P0230,Product_230,Sports,Fitness,LG,46316.1,50818.43,3.5,2023-03-02
+P0231,Product_231,Electronics,Books,Boat,35625.58,16172.56,4.5,2024-12-26
+P0232,Product_232,Books,Fitness,Apple,20574.5,11081.15,1.8,2023-10-22
+P0233,Product_233,Books,Books,Dell,643.54,16275.39,3.9,2023-11-16
+P0234,Product_234,Grocery,Footwear,HP,39666.55,34614.8,2.1,2023-07-01
+P0235,Product_235,Home & Kitchen,Books,Lenovo,20482.4,56107.34,4.2,2025-01-05
+P0236,Product_236,Sports,Laptop,Boat,33564.64,24908.77,3.7,2024-07-04
+P0237,Product_237,Sports,Footwear,Sony,5342.82,39624.14,3.1,2022-02-24
+P0238,Product_238,Sports,Fitness,Dell,44559.33,56375.91,3.6,2025-06-24
+P0239,Product_239,Beauty,Kitchen,Puma,21839.32,16866.6,4.5,2022-11-10
+P0240,Product_240,Electronics,Accessories,LG,45992.62,61831.71,2.5,2025-09-05
+P0241,Product_241,Electronics,Books,Dell,35380.17,66725.15,4.1,2022-08-08
+P0242,Product_242,Grocery,Laptop,Boat,6160.97,2920.12,1.6,2025-10-26
+P0243,Product_243,Home & Kitchen,Footwear,Samsung,29001.91,4325.96,3.8,2025-05-24
+P0244,Product_244,Fashion,Mobile,Nike,45505.73,6548.99,4.0,2022-02-18
+P0245,Product_245,Home & Kitchen,Kitchen,Dell,40018.53,54418.43,2.8,2023-04-08
+P0246,Product_246,Electronics,Kitchen,Boat,20957.22,13415.72,4.2,2022-04-28
+P0247,Product_247,Grocery,Footwear,Adidas,47757.71,50853.58,3.2,2022-03-23
+P0248,Product_248,Beauty,Kitchen,Puma,13501.95,31001.07,4.7,2025-07-10
+P0249,Product_249,Home & Kitchen,Fitness,Adidas,18817.87,58570.6,1.4,2023-05-11
+P0250,Product_250,Grocery,Fitness,LG,37510.74,56637.17,1.5,2023-09-26
+P0251,Product_251,Fashion,Mobile,LG,11721.94,67184.45,4.4,2024-04-16
+P0252,Product_252,Books,Laptop,Dell,25817.19,17722.44,4.4,2023-08-25
+P0253,Product_253,Home & Kitchen,Fitness,Lenovo,36466.58,16200.89,2.9,2024-02-09
+P0254,Product_254,Grocery,Laptop,Dell,32233.99,2399.26,4.9,2023-11-04
+P0255,Product_255,Sports,Laptop,Lenovo,7852.96,28847.04,3.7,2022-06-25
+P0256,Product_256,Fashion,Footwear,HP,31520.05,32242.61,4.9,2024-03-15
+P0257,Product_257,Sports,Laptop,Samsung,28678.26,67523.07,3.1,2025-01-17
+P0258,Product_258,Beauty,Books,Boat,27936.46,58188.81,1.8,2023-10-01
+P0259,Product_259,Electronics,Fitness,LG,41319.75,11842.06,2.8,2025-10-14
+P0260,Product_260,Home & Kitchen,Fitness,LG,9276.41,55934.56,4.9,2025-08-02
+P0261,Product_261,Grocery,Accessories,LG,37603.14,12645.29,2.5,2022-10-24
+P0262,Product_262,Home & Kitchen,Kitchen,LG,38070.21,5628.0,4.8,2025-07-07
+P0263,Product_263,Sports,Laptop,Sony,36160.01,58628.38,4.2,2023-04-20
+P0264,Product_264,Sports,Accessories,Lenovo,25347.82,68321.98,2.8,2023-06-20
+P0265,Product_265,Electronics,Footwear,Lenovo,19837.38,6350.67,3.2,2024-11-26
+P0266,Product_266,Grocery,Accessories,Sony,19794.39,57011.96,3.4,2025-04-19
+P0267,Product_267,Home & Kitchen,Kitchen,Sony,36717.05,60173.04,3.7,2022-01-25
+P0268,Product_268,Grocery,Laptop,Puma,24945.05,8489.14,1.3,2022-12-15
+P0269,Product_269,Electronics,Kitchen,Nike,16987.84,19971.09,4.7,2023-09-29
+P0270,Product_270,Sports,Fitness,Apple,31310.94,51409.51,3.4,2022-08-15
+P0271,Product_271,Books,Footwear,Sony,41866.86,56579.57,4.7,2025-10-03
+P0272,Product_272,Grocery,Laptop,HP,3169.29,24907.39,3.5,2022-02-07
+P0273,Product_273,Sports,Footwear,Samsung,48609.63,11363.07,2.7,2025-11-07
+P0274,Product_274,Fashion,Mobile,Nike,4922.93,45454.44,3.3,2023-07-24
+P0275,Product_275,Sports,Laptop,LG,25635.73,49197.41,4.3,2022-08-24
+P0276,Product_276,Sports,Mobile,Apple,28054.46,35351.83,2.3,2025-04-19
+P0277,Product_277,Grocery,Accessories,Apple,6996.71,10316.89,4.8,2022-04-24
+P0278,Product_278,Books,Laptop,Puma,45788.13,59145.17,2.9,2022-11-02
+P0279,Product_279,Electronics,Mobile,HP,23626.21,45239.56,4.8,2022-05-12
+P0280,Product_280,Fashion,Books,Apple,7241.71,60867.66,4.5,2022-12-14
+P0281,Product_281,Fashion,Fitness,Adidas,35609.46,65321.24,4.1,2025-04-18
+P0282,Product_282,Home & Kitchen,Accessories,Boat,33203.88,56437.71,2.9,2023-02-19
+P0283,Product_283,Books,Laptop,LG,48146.99,67114.29,3.3,2024-09-09
+P0284,Product_284,Beauty,Laptop,Adidas,22131.66,66807.19,4.4,2024-01-02
+P0285,Product_285,Home & Kitchen,Fitness,Apple,13463.02,43430.25,3.2,2023-10-16
+P0286,Product_286,Home & Kitchen,Fitness,Apple,3093.7,51026.55,4.0,2023-01-20
+P0287,Product_287,Home & Kitchen,Kitchen,Apple,36682.76,49018.72,4.2,2023-05-27
+P0288,Product_288,Fashion,Mobile,Puma,30902.16,43555.31,3.1,2024-12-02
+P0289,Product_289,Electronics,Mobile,Adidas,48633.28,1550.99,3.1,2025-02-15
+P0290,Product_290,Grocery,Mobile,Sony,35637.03,25042.29,1.8,2022-03-02
+P0291,Product_291,Sports,Kitchen,Sony,46664.76,7185.47,2.0,2023-07-07
+P0292,Product_292,Fashion,Footwear,Sony,49579.78,21158.09,4.6,2022-07-07
+P0293,Product_293,Sports,Accessories,Samsung,21478.71,4985.82,4.4,2023-03-29
+P0294,Product_294,Sports,Laptop,HP,7599.72,64418.2,1.0,2024-04-26
+P0295,Product_295,Beauty,Accessories,Adidas,9872.95,31702.83,4.5,2022-07-06
+P0296,Product_296,Grocery,Fitness,Boat,15986.92,13417.64,1.1,2024-07-26
+P0297,Product_297,Home & Kitchen,Books,Sony,25493.9,41017.59,2.8,2022-06-13
+P0298,Product_298,Beauty,Accessories,LG,6208.76,13912.28,1.3,2025-12-18
+P0299,Product_299,Home & Kitchen,Accessories,Adidas,15155.72,56349.93,4.9,2022-04-12
+P0300,Product_300,Fashion,Mobile,HP,15458.91,21553.15,4.9,2025-07-14
+P0301,Product_301,Sports,Fitness,Apple,303.87,22180.06,3.4,2025-03-22
+P0302,Product_302,Beauty,Accessories,Dell,17773.02,60922.58,2.6,2025-12-23
+P0303,Product_303,Books,Laptop,Puma,5895.99,39232.36,3.0,2023-11-22
+P0304,Product_304,Fashion,Mobile,Sony,21542.6,62133.69,4.0,2025-12-21
+P0305,Product_305,Fashion,Kitchen,LG,9907.18,29019.58,1.9,2023-08-01
+P0306,Product_306,Books,Accessories,HP,41123.5,24206.15,2.8,2023-09-03
+P0307,Product_307,Home & Kitchen,Fitness,Sony,4118.22,35532.97,3.9,2023-06-20
+P0308,Product_308,Sports,Books,LG,43296.46,4492.12,2.6,2025-09-18
+P0309,Product_309,Home & Kitchen,Laptop,Puma,29068.28,10963.21,1.1,2024-01-31
+P0310,Product_310,Home & Kitchen,Books,LG,22986.17,15522.61,3.0,2024-06-14
+P0311,Product_311,Fashion,Fitness,Puma,27532.14,57204.07,3.9,2024-08-28
+P0312,Product_312,Home & Kitchen,Fitness,HP,18867.85,51419.15,4.9,2022-05-04
+P0313,Product_313,Electronics,Fitness,Lenovo,6467.83,13692.85,1.1,2025-08-18
+P0314,Product_314,Books,Books,Samsung,38317.4,19516.98,3.2,2023-10-30
+P0315,Product_315,Grocery,Footwear,Sony,46402.79,66109.48,2.8,2022-12-15
+P0316,Product_316,Books,Laptop,Sony,47508.37,6189.05,2.0,2022-09-06
+P0317,Product_317,Sports,Fitness,HP,33568.5,38412.37,3.6,2025-07-18
+P0318,Product_318,Books,Footwear,Lenovo,20576.34,36636.09,1.7,2025-12-23
+P0319,Product_319,Home & Kitchen,Mobile,Samsung,23970.16,50854.41,2.1,2023-12-08
+P0320,Product_320,Home & Kitchen,Footwear,Samsung,32882.59,18448.19,4.1,2023-12-14
+P0321,Product_321,Beauty,Mobile,Sony,41171.32,65447.13,2.8,2024-10-03
+P0322,Product_322,Sports,Books,Apple,18790.9,28858.69,5.0,2022-09-04
+P0323,Product_323,Sports,Kitchen,Puma,45847.38,20143.23,2.5,2023-04-26
+P0324,Product_324,Books,Kitchen,Nike,16281.18,23713.49,2.9,2022-04-08
+P0325,Product_325,Home & Kitchen,Footwear,Sony,26589.9,24540.82,2.2,2022-11-25
+P0326,Product_326,Electronics,Books,Apple,48071.95,14085.2,1.9,2025-12-19
+P0327,Product_327,Beauty,Fitness,Sony,46916.13,64978.16,4.7,2025-12-18
+P0328,Product_328,Electronics,Footwear,Apple,34817.68,12406.29,4.0,2024-10-25
+P0329,Product_329,Home & Kitchen,Footwear,Sony,16295.55,61821.72,2.3,2023-04-04
+P0330,Product_330,Sports,Fitness,HP,11029.85,28464.06,3.8,2024-03-06
+P0331,Product_331,Sports,Mobile,Nike,4099.15,18995.5,4.9,2023-08-16
+P0332,Product_332,Grocery,Fitness,Adidas,35461.85,14055.92,1.3,2023-05-13
+P0333,Product_333,Electronics,Laptop,Adidas,25222.19,35403.09,2.1,2022-03-28
+P0334,Product_334,Grocery,Kitchen,Boat,28657.16,46914.25,1.8,2023-02-06
+P0335,Product_335,Grocery,Kitchen,Puma,23672.37,62895.83,4.5,2025-08-09
+P0336,Product_336,Fashion,Footwear,HP,24199.03,45740.77,1.7,2025-07-28
+P0337,Product_337,Home & Kitchen,Laptop,Nike,28606.55,33959.64,2.2,2022-07-16
+P0338,Product_338,Sports,Fitness,Lenovo,45721.67,2536.63,3.2,2024-02-03
+P0339,Product_339,Books,Kitchen,Apple,1565.38,64096.8,3.5,2025-01-11
+P0340,Product_340,Fashion,Books,Puma,40101.68,63185.37,4.2,2022-01-27
+P0341,Product_341,Sports,Fitness,Nike,19586.76,26634.44,2.6,2022-05-15
+P0342,Product_342,Books,Accessories,Samsung,37271.72,2226.62,3.1,2025-01-18
+P0343,Product_343,Sports,Laptop,Puma,47431.46,51389.19,4.9,2022-07-25
+P0344,Product_344,Fashion,Kitchen,HP,15383.72,55459.33,2.2,2024-11-16
+P0345,Product_345,Electronics,Accessories,Boat,4568.78,38064.11,2.0,2025-11-02
+P0346,Product_346,Home & Kitchen,Laptop,HP,11691.69,28320.67,3.8,2025-12-09
+P0347,Product_347,Grocery,Books,Apple,11182.43,59609.07,4.1,2025-06-04
+P0348,Product_348,Fashion,Accessories,Adidas,37118.29,13637.65,2.7,2023-08-26
+P0349,Product_349,Fashion,Accessories,LG,3186.72,30881.16,1.9,2024-12-27
+P0350,Product_350,Grocery,Laptop,Dell,2641.59,1909.13,4.1,2022-12-28
+P0351,Product_351,Sports,Fitness,LG,34711.07,11647.93,3.7,2025-07-07
+P0352,Product_352,Books,Mobile,Lenovo,27880.31,65870.02,4.5,2023-10-20
+P0353,Product_353,Grocery,Fitness,Dell,20946.6,40550.21,4.4,2024-12-22
+P0354,Product_354,Fashion,Mobile,HP,28810.88,56430.34,1.8,2024-08-29
+P0355,Product_355,Home & Kitchen,Laptop,Nike,36788.87,34157.73,4.3,2024-09-06
+P0356,Product_356,Grocery,Footwear,Apple,5263.22,58470.93,1.7,2024-07-29
+P0357,Product_357,Grocery,Fitness,Sony,27708.99,37818.75,4.5,2024-06-26
+P0358,Product_358,Electronics,Accessories,Lenovo,41238.4,516.73,4.1,2025-11-16
+P0359,Product_359,Books,Fitness,Adidas,18185.22,62998.99,3.3,2022-09-03
+P0360,Product_360,Electronics,Laptop,Lenovo,38174.6,10569.92,3.6,2022-10-05
+P0361,Product_361,Electronics,Footwear,Puma,42286.5,31648.72,1.4,2022-12-13
+P0362,Product_362,Home & Kitchen,Footwear,Boat,41064.37,33471.87,1.2,2023-01-07
+P0363,Product_363,Sports,Fitness,Apple,32552.78,3497.09,2.3,2024-03-19
+P0364,Product_364,Books,Fitness,HP,35895.49,3904.31,4.3,2024-04-28
+P0365,Product_365,Books,Books,Samsung,39404.99,53426.12,2.9,2022-05-03
+P0366,Product_366,Grocery,Fitness,Samsung,36712.09,21171.47,1.9,2024-12-16
+P0367,Product_367,Home & Kitchen,Laptop,Apple,22638.84,28792.05,4.3,2022-06-09
+P0368,Product_368,Books,Mobile,Dell,8040.14,39575.05,1.9,2025-02-24
+P0369,Product_369,Fashion,Books,Samsung,15555.56,26262.35,4.3,2024-01-07
+P0370,Product_370,Beauty,Mobile,HP,10441.6,54297.61,2.8,2025-08-27
+P0371,Product_371,Grocery,Accessories,Boat,18136.06,61935.63,2.9,2023-06-02
+P0372,Product_372,Beauty,Kitchen,Lenovo,24517.62,4368.31,2.1,2024-07-23
+P0373,Product_373,Beauty,Laptop,Sony,47956.43,44551.16,4.6,2025-07-12
+P0374,Product_374,Electronics,Books,Puma,47977.19,22372.67,1.4,2024-01-16
+P0375,Product_375,Books,Footwear,LG,38502.47,40912.61,1.6,2022-10-15
+P0376,Product_376,Grocery,Books,Nike,49009.0,33976.73,3.5,2023-02-24
+P0377,Product_377,Home & Kitchen,Accessories,LG,49900.99,23490.76,4.4,2022-05-20
+P0378,Product_378,Books,Footwear,Dell,44274.31,6818.13,1.4,2023-12-08
+P0379,Product_379,Home & Kitchen,Books,Samsung,4067.23,39248.91,3.9,2023-11-29
+P0380,Product_380,Books,Footwear,Lenovo,21359.6,8072.92,4.0,2024-09-13
+P0381,Product_381,Grocery,Fitness,Sony,26752.59,11097.18,3.3,2023-04-20
+P0382,Product_382,Grocery,Footwear,Puma,6291.72,68755.83,2.9,2023-01-24
+P0383,Product_383,Electronics,Books,Boat,40450.67,22306.02,2.3,2023-05-26
+P0384,Product_384,Grocery,Footwear,Lenovo,7519.3,40993.65,2.4,2023-06-22
+P0385,Product_385,Fashion,Laptop,Lenovo,19228.11,19201.79,3.7,2022-08-01
+P0386,Product_386,Beauty,Fitness,Adidas,3538.72,60612.56,1.3,2024-06-15
+P0387,Product_387,Beauty,Fitness,Apple,26277.2,19977.15,3.3,2025-07-12
+P0388,Product_388,Books,Accessories,Nike,29892.37,25808.58,2.1,2025-09-28
+P0389,Product_389,Electronics,Fitness,Adidas,36785.32,42665.45,2.9,2024-11-27
+P0390,Product_390,Beauty,Mobile,Nike,17039.13,60925.07,3.2,2022-08-21
+P0391,Product_391,Books,Laptop,LG,29567.52,57171.75,4.5,2022-09-17
+P0392,Product_392,Grocery,Accessories,Lenovo,36733.95,18617.42,3.3,2022-11-04
+P0393,Product_393,Sports,Mobile,Samsung,38125.55,58102.94,1.9,2023-02-07
+P0394,Product_394,Books,Footwear,Boat,15151.93,49143.43,1.3,2024-09-23
+P0395,Product_395,Home & Kitchen,Kitchen,Sony,3478.43,69290.03,3.5,2025-07-08
+P0396,Product_396,Beauty,Mobile,Nike,1977.21,65494.25,3.2,2024-01-20
+P0397,Product_397,Beauty,Accessories,Nike,38426.21,37412.94,3.7,2025-02-03
+P0398,Product_398,Sports,Fitness,Puma,19333.4,52545.02,2.8,2025-06-24
+P0399,Product_399,Grocery,Laptop,HP,6783.74,39998.54,4.3,2022-10-31
+P0400,Product_400,Fashion,Kitchen,Nike,9306.0,41730.68,4.7,2022-12-09
+P0401,Product_401,Books,Accessories,Apple,38330.91,7284.76,1.2,2024-11-27
+P0402,Product_402,Fashion,Mobile,Boat,29985.21,356.75,4.0,2024-05-04
+P0403,Product_403,Books,Kitchen,Boat,25120.02,3563.41,1.1,2024-12-05
+P0404,Product_404,Sports,Mobile,Adidas,31188.08,67670.82,2.8,2025-05-28
+P0405,Product_405,Fashion,Accessories,Lenovo,6961.23,9013.52,2.8,2022-09-13
+P0406,Product_406,Electronics,Kitchen,Apple,16020.21,3298.4,3.8,2022-05-17
+P0407,Product_407,Sports,Books,Sony,18765.77,21813.17,2.4,2025-06-08
+P0408,Product_408,Grocery,Books,Dell,15793.44,41254.96,4.3,2024-03-28
+P0409,Product_409,Books,Accessories,HP,43234.37,66402.55,2.4,2024-08-30
+P0410,Product_410,Home & Kitchen,Books,Dell,29112.92,49052.15,2.4,2022-02-07
+P0411,Product_411,Grocery,Accessories,Adidas,36493.14,19489.44,1.9,2025-03-24
+P0412,Product_412,Grocery,Fitness,Boat,11911.63,65746.25,3.7,2022-04-15
+P0413,Product_413,Home & Kitchen,Kitchen,Apple,13277.29,2715.67,1.3,2022-09-12
+P0414,Product_414,Home & Kitchen,Accessories,Dell,11344.27,68537.97,2.5,2025-11-28
+P0415,Product_415,Books,Footwear,Sony,34430.18,4293.12,2.1,2023-05-03
+P0416,Product_416,Grocery,Laptop,Sony,17517.15,52818.73,1.9,2023-04-03
+P0417,Product_417,Beauty,Laptop,Lenovo,20313.7,3361.77,1.2,2023-06-12
+P0418,Product_418,Sports,Footwear,Samsung,35485.17,65222.99,1.8,2023-08-14
+P0419,Product_419,Sports,Mobile,Nike,48592.76,7784.88,2.8,2023-06-09
+P0420,Product_420,Fashion,Mobile,Nike,8177.58,3723.44,3.0,2023-01-05
+P0421,Product_421,Sports,Mobile,Sony,3227.55,62270.71,2.1,2022-04-12
+P0422,Product_422,Grocery,Kitchen,Apple,9822.81,6886.41,3.6,2024-07-04
+P0423,Product_423,Sports,Mobile,Adidas,36774.54,55895.6,2.3,2023-10-26
+P0424,Product_424,Grocery,Fitness,Samsung,9811.9,52343.02,2.5,2023-11-21
+P0425,Product_425,Fashion,Footwear,Puma,29259.18,42001.69,4.1,2023-08-22
+P0426,Product_426,Sports,Laptop,Sony,29556.8,26581.8,3.2,2023-08-23
+P0427,Product_427,Sports,Footwear,Apple,14791.71,64107.52,4.8,2023-06-25
+P0428,Product_428,Electronics,Laptop,LG,3529.44,61001.47,2.4,2023-01-24
+P0429,Product_429,Books,Mobile,Boat,20020.11,29952.05,4.3,2022-12-29
+P0430,Product_430,Fashion,Fitness,Dell,9420.59,16374.4,4.0,2024-07-19
+P0431,Product_431,Electronics,Accessories,Apple,9305.21,19225.5,4.6,2023-09-04
+P0432,Product_432,Beauty,Accessories,LG,26177.18,15578.59,4.8,2025-02-12
+P0433,Product_433,Fashion,Books,Lenovo,33688.74,37979.39,1.0,2023-12-23
+P0434,Product_434,Grocery,Mobile,Nike,3863.21,60824.01,1.4,2022-12-09
+P0435,Product_435,Books,Mobile,LG,28958.24,54198.12,3.7,2025-01-02
+P0436,Product_436,Sports,Footwear,Sony,12385.46,55726.63,2.6,2022-05-15
+P0437,Product_437,Grocery,Fitness,Lenovo,33697.57,31490.54,4.3,2024-07-28
+P0438,Product_438,Sports,Fitness,HP,40529.77,22706.65,1.0,2024-09-04
+P0439,Product_439,Electronics,Footwear,Puma,40369.98,53063.43,4.2,2023-01-15
+P0440,Product_440,Electronics,Fitness,Dell,18556.08,55572.22,1.5,2025-02-22
+P0441,Product_441,Beauty,Kitchen,Nike,28406.76,48735.69,2.2,2022-02-07
+P0442,Product_442,Beauty,Kitchen,LG,39705.39,2441.08,4.9,2024-02-20
+P0443,Product_443,Books,Fitness,HP,3134.43,41359.99,1.2,2022-11-06
+P0444,Product_444,Sports,Kitchen,Nike,30320.65,24423.8,2.4,2022-04-16
+P0445,Product_445,Grocery,Accessories,Sony,41842.45,13894.25,1.3,2023-07-10
+P0446,Product_446,Home & Kitchen,Fitness,LG,18680.61,48668.79,4.4,2025-06-02
+P0447,Product_447,Grocery,Kitchen,Apple,22824.86,18943.12,3.8,2025-06-19
+P0448,Product_448,Beauty,Mobile,Nike,34966.53,63916.31,4.2,2023-02-01
+P0449,Product_449,Sports,Accessories,Apple,3487.45,21005.92,3.1,2022-06-02
+P0450,Product_450,Grocery,Mobile,LG,19343.23,38951.61,2.4,2023-06-20
+P0451,Product_451,Grocery,Mobile,Sony,14855.97,57977.8,1.0,2024-09-22
+P0452,Product_452,Beauty,Kitchen,Puma,948.01,28267.86,2.1,2024-08-23
+P0453,Product_453,Grocery,Kitchen,Adidas,9879.04,58040.33,3.1,2025-11-26
+P0454,Product_454,Grocery,Footwear,Puma,19854.59,50714.01,3.7,2025-03-15
+P0455,Product_455,Fashion,Books,LG,9951.69,64476.44,1.9,2025-04-29
+P0456,Product_456,Electronics,Fitness,LG,30159.68,22943.25,1.6,2024-06-11
+P0457,Product_457,Sports,Fitness,Samsung,22487.77,7530.96,1.8,2023-08-06
+P0458,Product_458,Grocery,Fitness,LG,2070.12,30238.39,2.4,2022-07-20
+P0459,Product_459,Beauty,Fitness,Adidas,13824.51,55049.78,1.6,2022-01-12
+P0460,Product_460,Electronics,Kitchen,HP,1071.89,31640.37,1.6,2024-12-11
+P0461,Product_461,Grocery,Accessories,Apple,17970.95,18486.76,1.2,2024-02-07
+P0462,Product_462,Grocery,Laptop,Lenovo,13029.59,2126.7,4.4,2025-08-18
+P0463,Product_463,Home & Kitchen,Mobile,Sony,34440.52,22049.06,1.9,2025-08-16
+P0464,Product_464,Beauty,Books,Dell,15439.61,49994.0,4.3,2024-07-08
+P0465,Product_465,Sports,Books,LG,18820.42,10503.44,2.8,2023-06-05
+P0466,Product_466,Fashion,Laptop,Puma,36294.16,23993.38,3.5,2025-03-09
+P0467,Product_467,Electronics,Laptop,Samsung,24097.79,1612.16,1.3,2022-04-10
+P0468,Product_468,Electronics,Laptop,Samsung,27867.07,50578.5,3.3,2025-03-06
+P0469,Product_469,Fashion,Kitchen,Puma,42083.2,61671.68,2.2,2024-05-20
+P0470,Product_470,Sports,Accessories,Boat,10423.73,39883.28,1.4,2023-01-01
+P0471,Product_471,Books,Laptop,LG,49460.36,2005.87,4.6,2023-10-19
+P0472,Product_472,Home & Kitchen,Accessories,Apple,45015.24,15390.25,3.4,2022-06-10
+P0473,Product_473,Books,Kitchen,Samsung,14398.99,30805.15,2.0,2024-01-31
+P0474,Product_474,Grocery,Footwear,HP,44657.63,41213.17,2.7,2022-06-24
+P0475,Product_475,Fashion,Footwear,Sony,37722.41,34840.09,2.4,2025-01-16
+P0476,Product_476,Home & Kitchen,Books,Apple,46544.75,64127.45,3.8,2025-11-23
+P0477,Product_477,Sports,Footwear,HP,34587.65,65716.81,3.4,2023-06-29
+P0478,Product_478,Beauty,Accessories,Lenovo,33756.42,7679.24,1.1,2023-04-22
+P0479,Product_479,Beauty,Accessories,Lenovo,272.87,9859.68,1.8,2022-10-10
+P0480,Product_480,Books,Mobile,Samsung,23783.12,25192.23,2.9,2024-08-14
+P0481,Product_481,Sports,Laptop,LG,10093.4,29602.19,2.8,2023-03-28
+P0482,Product_482,Home & Kitchen,Fitness,Dell,16271.66,41107.46,3.1,2022-03-23
+P0483,Product_483,Books,Fitness,Apple,48942.9,54166.55,3.9,2025-05-21
+P0484,Product_484,Fashion,Laptop,Puma,4366.55,9676.59,3.7,2024-03-26
+P0485,Product_485,Books,Fitness,LG,36152.07,56224.25,2.5,2023-06-04
+P0486,Product_486,Sports,Fitness,Samsung,8729.95,42779.98,4.5,2022-05-14
+P0487,Product_487,Grocery,Kitchen,Lenovo,469.33,68665.74,1.3,2023-03-23
+P0488,Product_488,Sports,Fitness,Sony,25120.79,45651.5,3.3,2022-04-28
+P0489,Product_489,Beauty,Books,Sony,8144.64,50183.19,4.8,2025-06-20
+P0490,Product_490,Fashion,Accessories,HP,48276.77,13825.58,3.2,2024-01-19
+P0491,Product_491,Beauty,Accessories,Adidas,10264.47,53866.56,2.8,2025-03-19
+P0492,Product_492,Home & Kitchen,Accessories,Boat,9682.56,5732.78,1.5,2023-10-08
+P0493,Product_493,Home & Kitchen,Laptop,Sony,1705.13,46025.82,4.2,2023-01-14
+P0494,Product_494,Electronics,Footwear,Apple,16558.0,4078.99,2.5,2023-08-31
+P0495,Product_495,Sports,Books,Lenovo,1303.17,8242.76,3.8,2024-08-23
+P0496,Product_496,Fashion,Books,LG,24994.44,7729.07,1.8,2023-06-09
+P0497,Product_497,Fashion,Fitness,Apple,25329.97,3863.39,1.2,2025-02-14
+P0498,Product_498,Beauty,Mobile,Lenovo,2756.84,22615.5,2.2,2023-07-30
+P0499,Product_499,Books,Accessories,Nike,12079.11,69605.8,2.1,2024-07-25
+P0500,Product_500,Books,Kitchen,Dell,41622.11,24506.13,4.5,2023-10-24
